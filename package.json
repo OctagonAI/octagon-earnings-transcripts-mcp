@@ -1,11 +1,11 @@
 {
-  "name": "octagon-earnings-transcripts-mcp",
-  "version": "1.0.0",
+  "name": "octagon-transcripts-mcp",
+  "version": "1.0.1",
   "description": "MCP server for Earnings Call Transcripts Analysis. Provides specialized AI-powered earnings call transcript analysis with over 8,000 public companies coverage and historical data dating back to 2018.",
   "main": "dist/index.js",
   "type": "module",
   "bin": {
-    "octagon-earnings-transcripts-mcp": "dist/index.js"
+    "octagon-transcripts-mcp": "dist/index.js"
   },
   "files": [
     "dist"
